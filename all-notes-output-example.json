@@ -1,0 +1,41 @@
+[
+	{
+		"body": "## Example note 1\n\nThis is some sample markdown.\n- List item 1\n- List item 2",
+		"filename": "Example note 1",
+		"id": "sa8A4",
+		"meta": {
+			"aliases": "",
+			"dateCreated": "2025-05-03T12:12:32",
+			"dateModified": "2025-05-03T12:36:36",
+			"lastEditedBy": "laptop",
+			"tags": "",
+			"title": "Example note 1"
+		}
+	},
+	{
+		"body": "# VR Project Planning\n\n- Set goals\n- Assign tasks\n- Timeline estimate",
+		"filename": "VR Project Planning",
+		"id": "b7Qx2",
+		"meta": {
+			"aliases": "",
+			"dateCreated": "2025-04-12T08:15:00",
+			"dateModified": "2025-04-15T09:22:10",
+			"lastEditedBy": "desktop",
+			"tags": "",
+			"title": "VR Project Planning"
+		}
+	},
+	{
+		"body": "## Reflections\n\nMilestone 1 went well overall. Next steps:\n\n- Fix bugs\n- Improve scene transitions\n",
+		"filename": "Milestone Reflection",
+		"id": "Yz93P",
+		"meta": {
+			"aliases": "",
+			"dateCreated": "2025-05-01T18:00:00",
+			"dateModified": "2025-05-01T18:05:00",
+			"lastEditedBy": "tablet",
+			"tags": "",
+			"title": "Milestone Reflection"
+		}
+	}
+]

@@ -18,3 +18,21 @@ pip install flask
 ```bash
 python server.py
 ```
+
+## Test server
+1. Get a single markdown file by ID
+```bash
+curl http://localhost:5000/api/markdown/sa8A4
+```
+2. Get all markdown files
+```bash
+curl http://localhost:5000/api/markdown
+```
+3. Test get a non-existent file
+```bash
+curl http://localhost:5000/api/markdown/doesNotExist
+```
+4. Save response to a file
+```bash
+curl http://localhost:5000/api/markdown/sa8A4 -o output.json
+```
