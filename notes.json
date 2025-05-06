@@ -115,5 +115,18 @@
 			"tags": "patch-panel,cabling,networking"
 		},
 		"body": "Patch Panel B7 (West Wing):\n**Type**: Cat6 24-Port Patch Panel\n**Location**: Network Closet B, Wall Rack\n**Connections**: Serves offices 201-218\n**History**: Installed by the cabling team led by Miguel Torres during the west wing expansion in March 2025. All cables neatly labeled and tested for gigabit speeds."
+	},
+	"api11": {
+		"id": "api11",
+		"filename": "Api is Working",
+		"meta": {
+			"dateCreated": "2025-03-15T10:10:00",
+			"dateModified": "2025-03-15T10:20:00",
+			"lastEditedBy": "cabling_team",
+			"title": "Api is Working",
+			"aliases": "",
+			"tags": ""
+		},
+		"body": "Receiving this note means the api at https://notes.lucaslad.com/api/markdown is fully working!!!\n2025-05-05"
 	}
 }

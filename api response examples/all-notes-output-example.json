@@ -1,6 +1,6 @@
 [
 	{
-		"body": "## Example note 1\n\nThis is some sample markdown.\n- List item 1\n- List item 2",
+		"body": "This is the body of Example note 1.\nIt spans multiple lines.",
 		"filename": "Example note 1",
 		"id": "sa8A4",
 		"meta": {
@@ -13,29 +13,107 @@
 		}
 	},
 	{
-		"body": "# VR Project Planning\n\n- Set goals\n- Assign tasks\n- Timeline estimate",
-		"filename": "VR Project Planning",
-		"id": "b7Qx2",
+		"body": "## Weekly Summary\n\n- Completed milestone 1\n- Prepared for client demo",
+		"filename": "Weekly Report",
+		"id": "bX91Z",
 		"meta": {
-			"aliases": "",
-			"dateCreated": "2025-04-12T08:15:00",
-			"dateModified": "2025-04-15T09:22:10",
+			"aliases": "weekly",
+			"dateCreated": "2025-05-01T09:00:00",
+			"dateModified": "2025-05-01T17:00:00",
 			"lastEditedBy": "desktop",
-			"tags": "",
-			"title": "VR Project Planning"
+			"tags": "report,log",
+			"title": "Weekly Report"
 		}
 	},
 	{
-		"body": "## Reflections\n\nMilestone 1 went well overall. Next steps:\n\n- Fix bugs\n- Improve scene transitions\n",
-		"filename": "Milestone Reflection",
-		"id": "Yz93P",
+		"body": "- Discussed project timeline\n- Action item: Review requirements",
+		"filename": "Meeting Notes",
+		"id": "A2c9p",
+		"meta": {
+			"aliases": "mtg,april28",
+			"dateCreated": "2025-04-28T15:22:10",
+			"dateModified": "2025-04-28T15:40:45",
+			"lastEditedBy": "tablet",
+			"tags": "meetings",
+			"title": "Meeting Notes - April 28"
+		}
+	},
+	{
+		"body": "- [ ] Buy groceries\n- [x] Fix the Unity script\n- [ ] Email team",
+		"filename": "Todo List",
+		"id": "Zk19X",
 		"meta": {
 			"aliases": "",
-			"dateCreated": "2025-05-01T18:00:00",
-			"dateModified": "2025-05-01T18:05:00",
-			"lastEditedBy": "tablet",
+			"dateCreated": "2025-05-03T08:00:00",
+			"dateModified": "2025-05-03T08:10:00",
+			"lastEditedBy": "phone",
+			"tags": "tasks",
+			"title": "Todo List"
+		}
+	},
+	{
+		"body": "# Lucas' Laptop Computer System Summary:\n**System Model**: HP ENVY x360 Convertible 15m-ee0xxx\n**OS Name**: Microsoft Windows 10\n**CPU**: AMD Ryzen 5 4500U with Radeon Graphics\n**RAM**: 8.00 GB\n**SSD**: 256 GB",
+		"filename": "Laptop System Summary",
+		"id": "Qw3rT",
+		"meta": {
+			"aliases": "",
+			"dateCreated": "2025-05-02T10:00:00",
+			"dateModified": "2025-05-02T11:00:00",
+			"lastEditedBy": "desktop",
 			"tags": "",
-			"title": "Milestone Reflection"
+			"title": "Laptop System Summary"
+		}
+	},
+	{
+		"body": "Lucas' Desktop System Summary:\n**OS Name**: Microsoft Windows 10\n**CPU**: AMD Ryzen 5 4500U with Radeon Graphics\n**RAM**: 8.00 GB\n**GPU**: NVIDIA GeForce GTX 1060 with 6GB of VRAM\n**SSD**: 447 GB and 954 GB\n**History**: I originally purchased my desktop from IBUYPOWER in 2017 after saving all the money I got from birthdays, Christmas, and doing chores for about 4 years.",
+		"filename": "Desktop System Summary",
+		"id": "XyZ12",
+		"meta": {
+			"aliases": "",
+			"dateCreated": "2025-05-02T14:00:00",
+			"dateModified": "2025-05-02T15:00:00",
+			"lastEditedBy": "desktop",
+			"tags": "planning,project",
+			"title": "Desktop System Summary"
+		}
+	},
+	{
+		"body": "Main Switch Rack 1 (Data Center):\n**Device**: Cisco Catalyst 9300 Series\n**Location**: Server Room A, Rack 1\n**Ports**: 48 x 1GbE, 4 x 10GbE uplinks\n**History**: Installed by the IT Networking Team (lead: Priya Shah) during the 2023 infrastructure upgrade. All core office network traffic is routed through this switch.",
+		"filename": "Main Switch Rack 1",
+		"id": "SwA01",
+		"meta": {
+			"aliases": "",
+			"dateCreated": "2025-04-28T09:30:00",
+			"dateModified": "2025-04-28T09:45:00",
+			"lastEditedBy": "network_team",
+			"tags": "networking,switch,datacenter",
+			"title": "Main Switch Rack 1"
+		}
+	},
+	{
+		"body": "Conference Room Wireless Access Point:\n**Device**: Ubiquiti UniFi 6 Long-Range\n**Location**: Ceiling, Conference Room C\n**SSID**: OfficeGuest, OfficeSecure\n**History**: Installed by wireless admin Sarah Kim in April 2025 to provide high-density Wi-Fi coverage for meetings and presentations.",
+		"filename": "Conference Room Access Point",
+		"id": "ApC12",
+		"meta": {
+			"aliases": "",
+			"dateCreated": "2025-05-01T13:15:00",
+			"dateModified": "2025-05-01T13:20:00",
+			"lastEditedBy": "wireless_admin",
+			"tags": "wifi,access-point,wireless",
+			"title": "Conference Room Access Point"
+		}
+	},
+	{
+		"body": "Patch Panel B7 (West Wing):\n**Type**: Cat6 24-Port Patch Panel\n**Location**: Network Closet B, Wall Rack\n**Connections**: Serves offices 201-218\n**History**: Installed by the cabling team led by Miguel Torres during the west wing expansion in March 2025. All cables neatly labeled and tested for gigabit speeds.",
+		"filename": "Patch Panel B7",
+		"id": "PtB07",
+		"meta": {
+			"aliases": "",
+			"dateCreated": "2025-03-15T10:10:00",
+			"dateModified": "2025-03-15T10:20:00",
+			"lastEditedBy": "cabling_team",
+			"tags": "patch-panel,cabling,networking",
+			"title": "Patch Panel B7"
 		}
 	}
 ]
