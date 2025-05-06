@@ -58,4 +58,4 @@ def get_all_files():
     return jsonify(list(markdown_files.values()))
 
 if __name__ == "__main__":
-    app.run(port=5000)
+    app.run(port=8080)
