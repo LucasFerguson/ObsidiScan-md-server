@@ -9,9 +9,10 @@ python -m venv .venv
 .venv\Scripts\activate.bat
 ```
 
-Install requirements flask
+Install requirements flask and python-frontmatter
 ```bash
 pip install flask
+pip install python-frontmatter
 ```
 
 ## Start server
